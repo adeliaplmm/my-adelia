@@ -8,10 +8,10 @@ import ContacSection from './components/ContacSection';
 
 function App() {
   return (
-    <HeroSection/>
-    <ProfileSection/>
-    <SkillSection/>
-    <ProjectSection/>
+    <HeroSection/>,
+    <ProfileSection/>,
+    <SkillSection/>,
+    <ProjectSection/>,
     <ContacSection/>
   )
 }
